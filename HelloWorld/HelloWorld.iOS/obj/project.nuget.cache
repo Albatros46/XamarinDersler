@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ovgCfrg7650cSOHPS49pqApffvk5KZKSR0SuqaV11JolV67+lTRdXqTZPUCMsSI9HZDMkVstCYReL+GYFJHckQ==",
+  "success": true,
+  "projectFilePath": "D:\\Projeler\\Xamarin\\HelloWorld\\HelloWorld\\HelloWorld.iOS\\HelloWorld.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\albat\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\albat\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\albat\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
